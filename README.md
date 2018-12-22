@@ -33,11 +33,6 @@ mencoder "mf://*.png" -o movie.avi -ovc lavc -lavcopts vcodec=mjpeg
 
 ```
 
-## Query table information 
-
-The query table is inside *data* folder.
-
-
 ## References
 
 Panigrahi, Rashmi, et al. "Ligand recognition by the TPR domain of the import factor Toc64 from Arabidopsis thaliana."
